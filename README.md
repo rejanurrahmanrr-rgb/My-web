@@ -1,2 +1,57 @@
 # My-web
-It’s a early Internet life personal web
+It’s a early Internet life personal webpage
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Cool Website!!</title>
+<style>
+body {
+    background-color: yellow;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: blue;
+}
+h1 {
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+.box {
+    border: 3px dashed green;
+    padding: 10px;
+    background-color: white;
+}
+</style>
+</head>
+<body>
+
+<h1>WELCOME TO MY PAGE</h1>
+
+<center>
+<img src="https://via.placeholder.com/150" alt="my picture">
+<p><i>hi guys this is my first site hope u like it :-)</i></p>
+</center>
+
+<hr>
+
+<div class="box">
+<h3>Things I like:</h3>
+<ul>
+    <li>Playing video games</li>
+    <li>Pizza 🍕</li>
+    <li>My dog Rex</li>
+    <li>Coding (still learning lol)</li>
+</ul>
+</div>
+
+<br>
+
+<p>Click <a href="https://www.google.com" target="_blank">here</a> to go to Google!</p>
+
+<p>Send me an email: <u>myemail12345@gmail.com</u></p>
+
+<br><br>
+<marquee>Thanks for visiting my website!!! Come back soon!</marquee>
+
+</body>
+</html>
+
